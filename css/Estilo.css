@@ -1,0 +1,48 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+h2{
+	padding: 30px;
+	background-color: #900048;
+}
+
+header{
+	padding:25px;
+	text-align: center;
+    margin-left: 10px;
+	margin-right: 10px; 
+}
+
+section{
+text-align: center;
+}
+li a{
+	 text-decoration: none;
+	 color:black;
+	 font-size: 25px;
+}
+li{
+	list-style-type: none;
+	background-color: #74DBEF;
+	text-align: center;
+	color:black;
+	padding:0px;
+    margin-left: 50px;
+	margin-right: 50px; 
+}
+body{
+	background-image: url(../img/Monz.jpg);
+}
+article{
+    background-color: #D3D3D3;
+}
+footer{
+	text-align: center;
+	padding:0px;
+    margin-left:0;
+	margin-right: 0px;
+	background-color: #FFF1BC;
+	font-size: 20px;
+	color:black;
+}
